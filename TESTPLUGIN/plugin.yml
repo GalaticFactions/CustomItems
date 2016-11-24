@@ -1,0 +1,13 @@
+name: UltimateCustomItems
+author: Junkdude
+main: CustomItems\Loader
+api: [1.13.1, 2.0.0]
+commands:
+ test:
+  description: test
+ buy_zaroc:
+  description: test
+ buy_wizards_staff:
+  description: test
+
+
